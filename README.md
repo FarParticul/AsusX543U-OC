@@ -23,6 +23,8 @@ you will need to install the program from chris1111 and also see if your network
 ------
 A new bootloader update for the laptop will be released from the moment a new version appears.
 
+# This fork was taken from my old account where I couldn't log in, as long as I don't update it or do anything with it due to the switch to linux, you can just fork it and that's it (but I guess there are no such people).
+
 ----
 ## RUS
 
@@ -35,6 +37,8 @@ A new bootloader update for the laptop will be released from the moment a new ve
 
 ----------
 Выход нового релиза сборки загрузчика будет выходить по мере выхода релиза OpenCore. А именно в интервале 1-2 мес
+
+# Этот форк был взят с моего старого аккаунта где я не смог зайти, пока я не буду его обновлять и что то либо с ним делать в связи с переходом на линукс, вы можете просто его форкнуть и все(но наверное таких людей нету)
 
 ----------
 ### ScreenShot/Скриншот:
